@@ -159,12 +159,19 @@ Servidor de mock em Dart pra destravar o mobile antes da API existir.
 
 ## `▸` TELEMETRIA
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gabriel-oliveira800&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFB000&text_color=C9C9C9&icon_color=33FF00&ring_color=FFB000" alt="Estatísticas" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-oliveira800&layout=compact&langs_count=8&hide_border=true&bg_color=0D0D0D&title_color=FFB000&text_color=C9C9C9" alt="Linguagens" />
-
-</div>
+```
+  ┌─ SESSÃO ATUAL ─────────────────────────────────────────────┐
+  │                                                            │
+  │   PROJETOS PRÓPRIOS ....... 31        FORKS .......... 11  │
+  │   LINGUAGENS .............. 09        ESTRELAS ...... 019  │
+  │   ÁREAS ................... 07        ANOS ATIVOS ..... 06 │
+  │                                                            │
+  │   COMBO MAIS LONGO ....... FLUTTER  ██████ 6 anos seguidos │
+  │   FASE MAIS RECENTE ....... SWIFT    ██ macOS nativo       │
+  │   POWER-UP EM TESTE ....... IA/CLI   ██ docs a partir do   │
+  │                                               código real  │
+  └────────────────────────────────────────────────────────────┘
+```
 
 ## `▸` CONTINUE?
 
