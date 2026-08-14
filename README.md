@@ -34,7 +34,7 @@ $ whoami --verbose
   └────────────────────────────────────────────────────────────┘
 ```
 
-## `▸` A COBRINHA COME MEUS COMMITS
+## `▸` Lasted Commits
 
 <div align="center">
 
@@ -171,15 +171,6 @@ Servidor de mock em Dart pra destravar o mobile antes da API existir.
   │   POWER-UP EM TESTE ....... IA/CLI   ██ docs a partir do   │
   │                                               código real  │
   └────────────────────────────────────────────────────────────┘
-```
-
-## `▸` CONTINUE?
-
-```
-                    ┌──────────────────────┐
-                    │   > CONTINUE   10    │
-                    │     QUIT             │
-                    └──────────────────────┘
 ```
 
 <div align="center">
